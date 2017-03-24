@@ -3,9 +3,9 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About DataOps.info"
 +++
 
-DataOps.info is a website created in 2016 to start the sharing of resources aabout DataOps.
+DataOps.info is a website created in 2016 to start the sharing of resources about DataOps.
 
-Anyone can contirbute a Pull Request that addsa a resource, or you can provide us the info via our [Contact Us](../contact) page.
+Anyone can contirbute a Pull Request that adds a resource, or you can provide us the info via our [Contact Us](../contact) page.
 
 ## What is DataOps?
 The following excerpt is from [DataOps - It's a thing (honest)](https://itsalocke.com/dataops-its-a-thing-honest/)
